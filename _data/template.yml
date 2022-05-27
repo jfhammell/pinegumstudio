@@ -1,12 +1,13 @@
 # Color settings (hex-codes without the leading hash-tag)
-# Palette: modified from Canva's In Full Bloom 2
+# Palette: Supremo (Blue and Refreshing)
 color:
-  primary: 0066ff
-  secondary: 8deaf8
-  secondary-dark: 1c48b4
-  secondary-bg: 0066ff
-  secondary-bg-light: 8deaf8
-  tertiary: 004b02
+  #primary: 464866
+  primary: 25274d
+  secondary: 2e9cca
+  secondary-dark: 29648a
+  secondary-bg: aaabb8
+  secondary-bg-light: aaabb8
+  tertiary: 29648a
   muted: 444
 
 # Font Families
