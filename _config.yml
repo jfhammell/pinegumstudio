@@ -3,24 +3,13 @@ url: https://pinegumstudio.ca
 
 # Site settings
 title: Pine Gum Studio
-email: pinegumstudio@gmail.com
+email: contact@pinegumstudio.ca
 description: "Writing. Speaking. Creative Collaborations."
-
-# Team names, titles and social links
-people:
-- name: Melissa Hammell
-  pic: 1
-  position: Owner and Lead Consultant
-  social:
-#    - title: twitter
-#      url: #
-#    - title: facebook
-#      url: #
-#    - title: google-plus
-#      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: envelope
+    url: mailto:contact@pinegumstudio.ca
 #  - title: twitter
 #    url: http://twitter.com/jekyllrb
 #  - title: facebook
