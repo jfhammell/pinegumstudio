@@ -518,14 +518,12 @@ section#contact .text-danger {
 footer {
     padding: 25px 0;
     text-align: center;
-    /*background-color: #{{ site.data.template.color.secondary-bg }};*/
     background-color: #{{ site.data.template.color.secondary-dark }};
 }
 
 footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
-    /*font-family: {{ site.data.template.font.primary }};*/
     font-family: {{ site.data.template.font.secondary }};
     color: #000;
     line-height: 40px;
